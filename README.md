@@ -3,3 +3,5 @@
 
 # Concepts/Tools Used
 - matplotlib, numpy
+
+![Screenshot](plot.PNG)
